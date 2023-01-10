@@ -54,8 +54,8 @@
     "babel-register": "^6.26.0",
     "chai": "^3.5.0",
     "coveralls": "^3.1.0",
-    "mocha": "^3.5.3",
-    "nyc": "^11.9.0",
+    "mocha": "^4.0.0",
+    "nyc": "^13.0.0",
     "webpack": "https://gist.github.com/ljharb/9cdb687f3806f8e6cb8a365d0b7840eb"
   },
   "engines": {
